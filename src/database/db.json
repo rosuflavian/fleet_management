@@ -1,0 +1,12 @@
+{
+  "fleet": [
+    {
+      "marca": "dacia",
+      "tipul": "logan",
+      "an_fabricatie": "2001",
+      "id": 1,
+      "km_parcursi": "100",
+      "rca": "2022-01-27T19:26:00.000Z"
+    }
+  ]
+}
